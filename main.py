@@ -20,11 +20,11 @@ from collections import defaultdict
 # ─────────────────────────────────────────────
 #  CONFIGURATION
 # ─────────────────────────────────────────────
-BOT_TOKEN = "8205454366:AAFo1PmzUaHj4UuqdElSDoM16l4k"
-SUPER_ADMIN_IDS = [8254637769]
-OWNER_USERNAME = "Enter"
-FIXED_CHANNEL = "Enter"
-FIXED_GROUP = "Enter"
+BOT_TOKEN = "8668618111:AAEvex3vg2vJwt6nbVS-UrB9f9CrPgcoc2Y"
+SUPER_ADMIN_IDS = [1692589043]
+OWNER_USERNAME = "@OG_SAGAR_ddos"
+FIXED_CHANNEL = "https://t.me/pdf_making_hub"
+FIXED_GROUP = "https://t.me/pdf_making_hub"
 DB_FILE = "vk1.db"
 LOG_FILE = "vk.log"
 RATE_LIMIT_MSG = 10
