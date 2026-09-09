@@ -20,7 +20,7 @@ from collections import defaultdict
 # ─────────────────────────────────────────────
 #  CONFIGURATION
 # ─────────────────────────────────────────────
-BOT_TOKEN = "8205454366:AAFo1PmzUaHj4UuqdElSDoM16l4k"
+BOT_TOKEN = "8668618111:AAGCveDpMfK9gKLlU_CkFmFhhEdlgLvvIek"
 SUPER_ADMIN_IDS = [8254637769]
 OWNER_USERNAME = "Enter"
 FIXED_CHANNEL = "Enter"
