@@ -21,7 +21,7 @@ from collections import defaultdict
 #  CONFIGURATION
 # ─────────────────────────────────────────────
 BOT_TOKEN = "8668618111:AAGCveDpMfK9gKLlU_CkFmFhhEdlgLvvIek"
-SUPER_ADMIN_IDS = [8254637769]
+SUPER_ADMIN_IDS = [1692589043]
 OWNER_USERNAME = "Selfish_Sagar"
 FIXED_CHANNEL = "CrackCodex"
 FIXED_GROUP = "pdf_making_hub"
